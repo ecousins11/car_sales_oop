@@ -1,0 +1,6 @@
+SUV, 5, 5
+MPV, 5, 7
+Van, 5, 3
+Hatchback, 5, 4
+Saloon, 5, 5
+Coupe, 2, 2
